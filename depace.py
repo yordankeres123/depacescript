@@ -135,10 +135,16 @@ fo.write(messagescript14)
 fo.write(messagescript15)
 fo.write(messagescript16)
 
+print ">>"
 print "Yess cuk script Berhasil dibuat"
+print "<<"
 print "ketik mv Gr3enDr4gon.html /sdcard/"
+print ">>"
 print "contac fb Yordan Penceng / Starla Starla"
+print "<<"
 print "Makasih Yah cuk telah Memakai Tools Ini"
+print "<<"
 print "TEAM : Cyb3r Pop1ce +62 | Happy Hacking Team"
+print "<<"
 
 fo.close()
